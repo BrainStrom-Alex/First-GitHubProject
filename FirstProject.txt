@@ -1,0 +1,24 @@
+Hi Myself Alex,
+    This is my first Project on GitHub not a project but a Intro.
+Here i'm going to upload many verity of project in Robotics, Automation and Electric Vechile releted projects.
+Also this year is going to be my first year of college.
+So you will be seeing me building things from scrach to a good level.
+
+Some details about my schooling-
+I passed High School by 82% in 2023
+I passed Secondary Senior by 84.6%  by Mathematics baground in 2025
+Also I got 98.17%ile in JEE MAIN 2026
+With JEE ADVANCED Quilified
+
+I love making Real life Working Things from clss 7th.
+Some of the projects I made are listed -
+Basic Electrical Project (Class 6-7)
+City Development Project (Class 7)
+Voice Controlled Car using arduino (Class 8)
+Home Automation using arduino (Class 8)
+
+Now i'm moving towards more Real life Projects
+So Here I will be uploading Programmings related to Python, C/C++ 
+Also about Electrical Circuits
+About sensors
+ROS2, Matlab etc
