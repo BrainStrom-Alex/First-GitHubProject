@@ -1,5 +1,5 @@
 Hi Myself Alex,
-    This is my first Project on GitHub nat a project but a Intro.
+    This is my first Project on GitHub not a project but a Intro.
 Here i'm going to upload many verity of project in Robotics, Automation and Electric Vechile releted projects.
 Also this year is going to be my first year of college.
 So you will be seeing me building things from scrach to a good level.
