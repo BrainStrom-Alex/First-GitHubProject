@@ -9,3 +9,10 @@ I passed High School by 82% in 2023
 I passed Secondary Senior by 84.6%  by Mathematics baground in 2025
 Also I got 98.17%ile in JEE MAIN 2026
 With JEE ADVANCED Quilified
+
+I love making Real life Working Things from clss 7th.
+Some of the projects I made are listed -
+Basic Electrical Project (Class 6-7)
+City Development Project (Class 7)
+Voice Controlled Car using arduino (Class 8)
+Home Automation using arduino (Class 8)
