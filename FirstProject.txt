@@ -24,3 +24,4 @@ About sensors
 ROS2, Matlab etc
 
 Currently i'm learning Git & GitHub
+After this I have to learn Python & C/C++
