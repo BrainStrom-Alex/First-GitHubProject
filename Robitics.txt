@@ -1,6 +1,0 @@
-So, Here Robotics Releted Projects will be Uploaded.
-For Robotics the Knowledge required are-
-Programming
-Electrical
-Sensors
-Mechanical
