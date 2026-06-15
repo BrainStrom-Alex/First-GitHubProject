@@ -16,3 +16,9 @@ Basic Electrical Project (Class 6-7)
 City Development Project (Class 7)
 Voice Controlled Car using arduino (Class 8)
 Home Automation using arduino (Class 8)
+
+Now i'm moving towards more Real life Projects
+So Here I will be uploading Programmings related to Python, C/C++ 
+Also about Electrical Circuits
+About sensors
+ROS2, Matlab etc
